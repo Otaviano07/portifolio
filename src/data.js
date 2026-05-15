@@ -12,5 +12,8 @@ Gosto muito de trabalhar em equipe, tenho objetivo de aplicar meus conhecimentos
     interests: ['Apps Script', 'Automação', 'Frontend', 'Fullstack', 'Python', 'Banco de Dados', 'Flutter'],
     management: ['Gestão de Projetos', 'Qualidade de Software', 'Desenvolvimento de Software', 'Análise de Dados', 'Gestão de Estoque', 'Trabalho em Equipe', 'Liderança']
   },
-  hashtags: ['#engenheirosoftware', '#gestaodeprojetos', '#qualidadesoftware', '#desenvolvimentodesoftware', '#analisededados', '#gestãoestoque', '#liderança', '#tecnologia', '#innovação']
+  hashtags: ['#engenheirosoftware', '#gestaodeprojetos', '#qualidadesoftware', '#desenvolvimentodesoftware', '#analisededados', '#gestãoestoque', '#liderança', '#tecnologia', '#innovação'],
+  contact: {
+    email: 'contato@otavianosilva.tech'
+  }
 };
