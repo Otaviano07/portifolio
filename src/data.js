@@ -15,5 +15,43 @@ Gosto muito de trabalhar em equipe, tenho objetivo de aplicar meus conhecimentos
   hashtags: ['#engenheirosoftware', '#gestaodeprojetos', '#qualidadesoftware', '#desenvolvimentodesoftware', '#analisededados', '#gestãoestoque', '#liderança', '#tecnologia', '#innovação'],
   contact: {
     email: 'contato@otavianosilva.tech'
-  }
+  },
+  projects: [
+    {
+      title: 'Retiro Maranata 2027',
+      description: 'Plataforma completa de inscrições e gestão para o Retiro Espiritual Maranata. Gerencia programação, palestrantes e vendas de vagas.',
+      link: 'https://retiromaranata.app',
+      tags: ['Vue.js', 'Inscrições', 'Gestão de Eventos']
+    },
+    {
+      title: 'Mapa UFC Russas',
+      description: 'Guia interativo para localização de salas, blocos e disciplinas no campus da UFC em Russas, facilitando a vida de alunos e visitantes.',
+      link: 'https://mapaufcrussas.vercel.app',
+      tags: ['Educação', 'Geolocalização', 'UFC']
+    },
+    {
+      title: 'Líder Jovem',
+      description: 'Plataforma de capacitação e networking para o desenvolvimento de lideranças juvenis e protagonismo social.',
+      link: 'https://liderjovem.vercel.app',
+      tags: ['Liderança', 'Comunidade', 'Capacitação']
+    },
+    {
+      title: 'Mana Vale Jaguaribe',
+      description: 'Sistema de monitoramento ambiental focado em recursos hídricos e biodiversidade da região do Vale do Jaguaribe.',
+      link: 'https://manavalejaguaribe.vercel.app',
+      tags: ['Meio Ambiente', 'Dados', 'Sustentabilidade']
+    },
+    {
+      title: 'Vigília Jovem',
+      description: 'Portal de organização e divulgação de eventos religiosos focados na juventude, com suporte a inscrições e materiais.',
+      link: 'https://vigiliajovem.vercel.app',
+      tags: ['Eventos', 'Espiritualidade', 'Engajamento']
+    },
+    {
+      title: 'Oração Exige Ação',
+      description: 'Plataforma de mobilização social que conecta voluntariado a causas sociais com impacto prático na comunidade.',
+      link: 'https://oracaoexigeacao.vercel.app',
+      tags: ['Social', 'Voluntariado', 'Impacto']
+    }
+  ]
 };
